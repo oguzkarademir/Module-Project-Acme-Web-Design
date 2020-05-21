@@ -1,16 +1,16 @@
 # Development Strategy
 
-> `name-of-project`
+> `acme-web-design`
 
 write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+
+- In this project we will work on acme-web-design tutorial by reverse engineering.
 
 ## Wireframe
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+![wireframe](https://user-images.githubusercontent.com/53440164/82515233-0eeaa300-9b18-11ea-9d06-a45060d32e16.gif)
 
 ## 0. Set-Up
 
@@ -18,8 +18,11 @@ __A User can see my initial repository and live demo__
 
 ### Repo
 
-- Generate from Template
-- Write initial, basic README
+- Create a new repository [generated](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/) from [this starter template](https://github.com/HackYourFutureBelgium/w3-validation-template).
+- Change the name of the repository as a 'acme-web-design'
+- Clone the repository 
+- Develop cleanly and push with one branch per step
+- Write a detailed and understandable README.md 
 - Turn on GitHub Pages
 
 ## 1. __
