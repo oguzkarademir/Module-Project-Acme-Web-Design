@@ -27,56 +27,73 @@ __A User can see my initial repository and live demo__
 
 ## 1. Header
 
-__full user story description__
+> Create the header of the acme-web-design project
 
 ### Repo
 
-what branch(es) did you work on?
+- Work with a branch named 'header'
 
 ### HTML
 
-what did you change in the HTML and why?
+- Create the title of the website and the names of inner pages
 
 ### CSS
 
-what did you change in the CSS and why?
+- Create the 'style.css' into the css file and write global and header css features
 
 ## 2. Showcase
 
-__full user story description__
+> Create the main content of the acme-web-design project with semantic layout
 
 ### Repo
 
-what branch(es) did you work on?
+- Work with a branch named 'showcase'
 
 ### HTML
 
-what did you change in the HTML and why?
+- Create main content using 'section' tag
+- Use 'container' class with 'div' tag to see a more tidy structure
+- Add image
 
 ### CSS
 
-what did you change in the CSS and why?
+- Set background as picture
+- Adjust the gaps between the main content boxes using margin and padding
+- Use 'float' feature for boxes to appear side by side
 
 ## 3. Footer
 
-__full user story description__
+> Create the footer of the acme-web-design project with semantic layout
 
 ### Repo
 
-what branch(es) did you work on?
+- Work with a branch named 'footer'
 
 ### HTML
 
-what did you change in the HTML and why?
+- Create a footer using 'footer' tag
 
 ### CSS
 
-what did you change in the CSS and why?
+- Create some basic css features like color, background, padding-margin etc. for footer
+
+## 4. Inner Pages
+
+> Create inner pages of the acme-web-design project with semantic layout
+
+### Repo
+
+- Work with a branch named 'inner_pages'
+
+### HTML
+
+- Create html files named 'about' and 'services'
+
+### CSS
+
+- Adjust the gaps between the main content boxes using margin and padding
+- Use 'float' feature for boxes to appear side by side
 
 ## Finishing Touches
 
-- Write final, complete README:
-  - [makeareadme.com](https://www.makeareadme.com/)
-  - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-  - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
-- Validate code to check for any last mistakes
+- Write final, complete README
