@@ -25,7 +25,7 @@ __A User can see my initial repository and live demo__
 - Write a detailed and understandable README.md 
 - Turn on GitHub Pages
 
-## 1. __
+## 1. Header
 
 __full user story description__
 
@@ -41,11 +41,37 @@ what did you change in the HTML and why?
 
 what did you change in the CSS and why?
 
-## 2. ...
+## 2. Showcase
 
-...
+__full user story description__
 
-...
+### Repo
+
+what branch(es) did you work on?
+
+### HTML
+
+what did you change in the HTML and why?
+
+### CSS
+
+what did you change in the CSS and why?
+
+## 3. Footer
+
+__full user story description__
+
+### Repo
+
+what branch(es) did you work on?
+
+### HTML
+
+what did you change in the HTML and why?
+
+### CSS
+
+what did you change in the CSS and why?
 
 ## Finishing Touches
 
