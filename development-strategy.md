@@ -4,13 +4,18 @@
 
 write a short description of your project:
 
-- In this project we will work on acme-web-design tutorial by reverse engineering.
+- In this project I will work on acme-web-design tutorial by reverse engineering.
 
 ## Wireframe
 
-<!-- include a wireframe for your project in this repository, and display it here -->
-<!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe](https://user-images.githubusercontent.com/53440164/82515233-0eeaa300-9b18-11ea-9d06-a45060d32e16.gif)
+### Home page
+![Home](./Home.png)
+
+### About Menu
+![About](./About.png)
+
+### Services Menu
+![Services](./Services.png)
 
 ## 0. Set-Up
 
@@ -18,24 +23,25 @@ __A User can see my initial repository and live demo__
 
 ### Repo
 
-- Create a new repository [generated](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/) from [this starter template](https://github.com/HackYourFutureBelgium/w3-validation-template).
-- Change the name of the repository as a 'acme-web-design'
-- Clone the repository 
-- Develop cleanly and push with one branch per step
-- Write a detailed and understandable README.md 
+- Generated a new repository from this [template](https://github.com/HackYourFutureBelgium/w3-validation-template).
+- Cloned the repository 
+- Added wireframe
+- Wrote a initial, basic README
+- Wrote development strategy
 - Turn on GitHub Pages
 
 ## 1. Header
 
-> Create the header of the acme-web-design project
+> A user can see the structure and styles of header
 
 ### Repo
 
-- Work with a branch named 'header'
+- This user story was developed on a branch called `header`
+- It was merged to master when the feature was finished.
 
 ### HTML
 
-- Create the title of the website and the names of inner pages
+- the title of the website and the names of inner pages
 
 ### CSS
 
@@ -43,15 +49,15 @@ __A User can see my initial repository and live demo__
 
 ## 2. Showcase
 
-> Create the main content of the acme-web-design project with semantic layout
+> A user can see the main content of the home page
 
 ### Repo
 
-- Work with a branch named 'showcase'
+- This user story was developed on a branch called `showcase`
 
 ### HTML
 
-- Create main content using 'section' tag
+- Create main content using _section_ tag
 - Use 'container' class with 'div' tag to see a more tidy structure
 - Add image
 
@@ -63,15 +69,15 @@ __A User can see my initial repository and live demo__
 
 ## 3. Footer
 
-> Create the footer of the acme-web-design project with semantic layout
+> A user can see the footer and copyright
 
 ### Repo
 
-- Work with a branch named 'footer'
+- This user story was developed on a branch called `footer`
 
 ### HTML
 
-- Create a footer using 'footer' tag
+- Create a footer using footer tag
 
 ### CSS
 
@@ -79,11 +85,11 @@ __A User can see my initial repository and live demo__
 
 ## 4. Inner Pages
 
-> Create inner pages of the acme-web-design project with semantic layout
+> A user can see the header, main content and footer of the about and services menu pages
 
 ### Repo
 
-- Work with a branch named 'inner_pages'
+- This user story was developed on a branch called `inner_pages`
 
 ### HTML
 
@@ -96,4 +102,4 @@ __A User can see my initial repository and live demo__
 
 ## Finishing Touches
 
-- Write final, complete README
+- Wrote complete README
